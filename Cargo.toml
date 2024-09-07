@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "sdl2_01",
+]
+
+package.rust-version = "1.70"
+resolver = "2"
